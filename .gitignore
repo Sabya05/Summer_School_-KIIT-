@@ -1,0 +1,9 @@
+gitignore · GITIGNORE
+.env
+venv/
+__pycache__/
+*.pyc
+ 
+
+
+
