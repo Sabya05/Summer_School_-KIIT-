@@ -22,7 +22,7 @@ TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
 # GEMINI SETTINGS
 # ---------------------------------------------------------
 # Change the model here ONLY — nowhere else in the project.
-GEMINI_MODEL = "gemini-3.6-flash"
+GEMINI_MODEL = "gemini-3.5-flash"
 
 # Keep Gemini's answer reasonably short to save tokens (fallback default).
 MAX_OUTPUT_TOKENS = 12000
